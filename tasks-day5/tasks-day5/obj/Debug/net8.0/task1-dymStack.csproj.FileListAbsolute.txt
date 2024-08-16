@@ -1,0 +1,14 @@
+D:\ITI\C#\day5\tasks-day5\tasks-day5\bin\Debug\net8.0\task1-dymStack.exe
+D:\ITI\C#\day5\tasks-day5\tasks-day5\bin\Debug\net8.0\task1-dymStack.deps.json
+D:\ITI\C#\day5\tasks-day5\tasks-day5\bin\Debug\net8.0\task1-dymStack.runtimeconfig.json
+D:\ITI\C#\day5\tasks-day5\tasks-day5\bin\Debug\net8.0\task1-dymStack.dll
+D:\ITI\C#\day5\tasks-day5\tasks-day5\bin\Debug\net8.0\task1-dymStack.pdb
+D:\ITI\C#\day5\tasks-day5\tasks-day5\obj\Debug\net8.0\task1-dymStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day5\tasks-day5\tasks-day5\obj\Debug\net8.0\task1-dymStack.AssemblyInfoInputs.cache
+D:\ITI\C#\day5\tasks-day5\tasks-day5\obj\Debug\net8.0\task1-dymStack.AssemblyInfo.cs
+D:\ITI\C#\day5\tasks-day5\tasks-day5\obj\Debug\net8.0\task1-dymStack.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day5\tasks-day5\tasks-day5\obj\Debug\net8.0\task1-dymStack.dll
+D:\ITI\C#\day5\tasks-day5\tasks-day5\obj\Debug\net8.0\refint\task1-dymStack.dll
+D:\ITI\C#\day5\tasks-day5\tasks-day5\obj\Debug\net8.0\task1-dymStack.pdb
+D:\ITI\C#\day5\tasks-day5\tasks-day5\obj\Debug\net8.0\task1-dymStack.genruntimeconfig.cache
+D:\ITI\C#\day5\tasks-day5\tasks-day5\obj\Debug\net8.0\ref\task1-dymStack.dll

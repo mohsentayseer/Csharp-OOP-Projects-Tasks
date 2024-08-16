@@ -1,0 +1,14 @@
+D:\ITI\C#\day5\tasks-day5\task2-Queue\bin\Debug\net8.0\task2-Queue.exe
+D:\ITI\C#\day5\tasks-day5\task2-Queue\bin\Debug\net8.0\task2-Queue.deps.json
+D:\ITI\C#\day5\tasks-day5\task2-Queue\bin\Debug\net8.0\task2-Queue.runtimeconfig.json
+D:\ITI\C#\day5\tasks-day5\task2-Queue\bin\Debug\net8.0\task2-Queue.dll
+D:\ITI\C#\day5\tasks-day5\task2-Queue\bin\Debug\net8.0\task2-Queue.pdb
+D:\ITI\C#\day5\tasks-day5\task2-Queue\obj\Debug\net8.0\task2-Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day5\tasks-day5\task2-Queue\obj\Debug\net8.0\task2-Queue.AssemblyInfoInputs.cache
+D:\ITI\C#\day5\tasks-day5\task2-Queue\obj\Debug\net8.0\task2-Queue.AssemblyInfo.cs
+D:\ITI\C#\day5\tasks-day5\task2-Queue\obj\Debug\net8.0\task2-Queue.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day5\tasks-day5\task2-Queue\obj\Debug\net8.0\task2-Queue.dll
+D:\ITI\C#\day5\tasks-day5\task2-Queue\obj\Debug\net8.0\refint\task2-Queue.dll
+D:\ITI\C#\day5\tasks-day5\task2-Queue\obj\Debug\net8.0\task2-Queue.pdb
+D:\ITI\C#\day5\tasks-day5\task2-Queue\obj\Debug\net8.0\task2-Queue.genruntimeconfig.cache
+D:\ITI\C#\day5\tasks-day5\task2-Queue\obj\Debug\net8.0\ref\task2-Queue.dll

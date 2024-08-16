@@ -1,0 +1,14 @@
+D:\ITI\C#\day9\tasks-day9\task4\bin\Debug\net8.0\task4-singleTon.exe
+D:\ITI\C#\day9\tasks-day9\task4\bin\Debug\net8.0\task4-singleTon.deps.json
+D:\ITI\C#\day9\tasks-day9\task4\bin\Debug\net8.0\task4-singleTon.runtimeconfig.json
+D:\ITI\C#\day9\tasks-day9\task4\bin\Debug\net8.0\task4-singleTon.dll
+D:\ITI\C#\day9\tasks-day9\task4\bin\Debug\net8.0\task4-singleTon.pdb
+D:\ITI\C#\day9\tasks-day9\task4\obj\Debug\net8.0\task4-singleTon.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day9\tasks-day9\task4\obj\Debug\net8.0\task4-singleTon.AssemblyInfoInputs.cache
+D:\ITI\C#\day9\tasks-day9\task4\obj\Debug\net8.0\task4-singleTon.AssemblyInfo.cs
+D:\ITI\C#\day9\tasks-day9\task4\obj\Debug\net8.0\task4-singleTon.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day9\tasks-day9\task4\obj\Debug\net8.0\task4-singleTon.dll
+D:\ITI\C#\day9\tasks-day9\task4\obj\Debug\net8.0\refint\task4-singleTon.dll
+D:\ITI\C#\day9\tasks-day9\task4\obj\Debug\net8.0\task4-singleTon.pdb
+D:\ITI\C#\day9\tasks-day9\task4\obj\Debug\net8.0\task4-singleTon.genruntimeconfig.cache
+D:\ITI\C#\day9\tasks-day9\task4\obj\Debug\net8.0\ref\task4-singleTon.dll

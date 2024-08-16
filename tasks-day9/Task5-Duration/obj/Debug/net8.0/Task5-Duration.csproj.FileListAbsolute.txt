@@ -1,0 +1,14 @@
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\bin\Debug\net8.0\Task5-Duration.exe
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\bin\Debug\net8.0\Task5-Duration.deps.json
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\bin\Debug\net8.0\Task5-Duration.runtimeconfig.json
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\bin\Debug\net8.0\Task5-Duration.dll
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\bin\Debug\net8.0\Task5-Duration.pdb
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\obj\Debug\net8.0\Task5-Duration.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\obj\Debug\net8.0\Task5-Duration.AssemblyInfoInputs.cache
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\obj\Debug\net8.0\Task5-Duration.AssemblyInfo.cs
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\obj\Debug\net8.0\Task5-Duration.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\obj\Debug\net8.0\Task5-Duration.dll
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\obj\Debug\net8.0\refint\Task5-Duration.dll
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\obj\Debug\net8.0\Task5-Duration.pdb
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\obj\Debug\net8.0\Task5-Duration.genruntimeconfig.cache
+D:\ITI\C#\day9\tasks-day9\Task5-Duration\obj\Debug\net8.0\ref\Task5-Duration.dll

@@ -1,0 +1,14 @@
+D:\ITI\C#\Exam-Project\Exam-Project\bin\Debug\net8.0\Exam-Project.exe
+D:\ITI\C#\Exam-Project\Exam-Project\bin\Debug\net8.0\Exam-Project.deps.json
+D:\ITI\C#\Exam-Project\Exam-Project\bin\Debug\net8.0\Exam-Project.runtimeconfig.json
+D:\ITI\C#\Exam-Project\Exam-Project\bin\Debug\net8.0\Exam-Project.dll
+D:\ITI\C#\Exam-Project\Exam-Project\bin\Debug\net8.0\Exam-Project.pdb
+D:\ITI\C#\Exam-Project\Exam-Project\obj\Debug\net8.0\Exam-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\Exam-Project\Exam-Project\obj\Debug\net8.0\Exam-Project.AssemblyInfoInputs.cache
+D:\ITI\C#\Exam-Project\Exam-Project\obj\Debug\net8.0\Exam-Project.AssemblyInfo.cs
+D:\ITI\C#\Exam-Project\Exam-Project\obj\Debug\net8.0\Exam-Project.csproj.CoreCompileInputs.cache
+D:\ITI\C#\Exam-Project\Exam-Project\obj\Debug\net8.0\Exam-Project.dll
+D:\ITI\C#\Exam-Project\Exam-Project\obj\Debug\net8.0\refint\Exam-Project.dll
+D:\ITI\C#\Exam-Project\Exam-Project\obj\Debug\net8.0\Exam-Project.pdb
+D:\ITI\C#\Exam-Project\Exam-Project\obj\Debug\net8.0\Exam-Project.genruntimeconfig.cache
+D:\ITI\C#\Exam-Project\Exam-Project\obj\Debug\net8.0\ref\Exam-Project.dll

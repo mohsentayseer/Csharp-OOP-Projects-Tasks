@@ -1,0 +1,14 @@
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\bin\Debug\net8.0\task3-ModifyMathClass.exe
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\bin\Debug\net8.0\task3-ModifyMathClass.deps.json
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\bin\Debug\net8.0\task3-ModifyMathClass.runtimeconfig.json
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\bin\Debug\net8.0\task3-ModifyMathClass.dll
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\bin\Debug\net8.0\task3-ModifyMathClass.pdb
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\obj\Debug\net8.0\task3-ModifyMathClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\obj\Debug\net8.0\task3-ModifyMathClass.AssemblyInfoInputs.cache
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\obj\Debug\net8.0\task3-ModifyMathClass.AssemblyInfo.cs
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\obj\Debug\net8.0\task3-ModifyMathClass.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\obj\Debug\net8.0\task3-ModifyMathClass.dll
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\obj\Debug\net8.0\refint\task3-ModifyMathClass.dll
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\obj\Debug\net8.0\task3-ModifyMathClass.pdb
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\obj\Debug\net8.0\task3-ModifyMathClass.genruntimeconfig.cache
+D:\ITI\C#\day9\tasks-day9\task3-ModifyMathClass\obj\Debug\net8.0\ref\task3-ModifyMathClass.dll

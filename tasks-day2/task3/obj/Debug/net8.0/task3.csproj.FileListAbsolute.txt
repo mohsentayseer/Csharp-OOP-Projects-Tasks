@@ -1,0 +1,14 @@
+D:\ITI\C#\day2\tasks\task3\bin\Debug\net8.0\task3.exe
+D:\ITI\C#\day2\tasks\task3\bin\Debug\net8.0\task3.deps.json
+D:\ITI\C#\day2\tasks\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+D:\ITI\C#\day2\tasks\task3\bin\Debug\net8.0\task3.dll
+D:\ITI\C#\day2\tasks\task3\bin\Debug\net8.0\task3.pdb
+D:\ITI\C#\day2\tasks\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day2\tasks\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+D:\ITI\C#\day2\tasks\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+D:\ITI\C#\day2\tasks\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day2\tasks\task3\obj\Debug\net8.0\task3.dll
+D:\ITI\C#\day2\tasks\task3\obj\Debug\net8.0\refint\task3.dll
+D:\ITI\C#\day2\tasks\task3\obj\Debug\net8.0\task3.pdb
+D:\ITI\C#\day2\tasks\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+D:\ITI\C#\day2\tasks\task3\obj\Debug\net8.0\ref\task3.dll

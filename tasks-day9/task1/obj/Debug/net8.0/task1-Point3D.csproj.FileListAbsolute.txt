@@ -1,0 +1,14 @@
+D:\ITI\C#\day9\tasks-day9\task1\bin\Debug\net8.0\task1-Point3D.exe
+D:\ITI\C#\day9\tasks-day9\task1\bin\Debug\net8.0\task1-Point3D.deps.json
+D:\ITI\C#\day9\tasks-day9\task1\bin\Debug\net8.0\task1-Point3D.runtimeconfig.json
+D:\ITI\C#\day9\tasks-day9\task1\bin\Debug\net8.0\task1-Point3D.dll
+D:\ITI\C#\day9\tasks-day9\task1\bin\Debug\net8.0\task1-Point3D.pdb
+D:\ITI\C#\day9\tasks-day9\task1\obj\Debug\net8.0\task1-Point3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day9\tasks-day9\task1\obj\Debug\net8.0\task1-Point3D.AssemblyInfoInputs.cache
+D:\ITI\C#\day9\tasks-day9\task1\obj\Debug\net8.0\task1-Point3D.AssemblyInfo.cs
+D:\ITI\C#\day9\tasks-day9\task1\obj\Debug\net8.0\task1-Point3D.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day9\tasks-day9\task1\obj\Debug\net8.0\task1-Point3D.dll
+D:\ITI\C#\day9\tasks-day9\task1\obj\Debug\net8.0\refint\task1-Point3D.dll
+D:\ITI\C#\day9\tasks-day9\task1\obj\Debug\net8.0\task1-Point3D.pdb
+D:\ITI\C#\day9\tasks-day9\task1\obj\Debug\net8.0\task1-Point3D.genruntimeconfig.cache
+D:\ITI\C#\day9\tasks-day9\task1\obj\Debug\net8.0\ref\task1-Point3D.dll

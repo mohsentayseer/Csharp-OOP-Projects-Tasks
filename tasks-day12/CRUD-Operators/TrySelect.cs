@@ -1,0 +1,60 @@
+﻿using Microsoft.Data.SqlClient;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace CRUD_Operators
+{
+    public partial class TrySelect : Form
+    {
+        public TrySelect()
+        {
+            InitializeComponent();
+            FullAuthorsToGrideView();
+        }
+        private void FullAuthorsToGrideView()
+        {
+            //1,2,3- Connection object
+            SqlConnection sqlConnect = new SqlConnection("Server=.;Database=pubs;Trusted_Connection=true;TrustServerCertificate=true");
+
+            //4-commands
+            SqlCommand cmd = new SqlCommand();
+            cmd.CommandType = CommandType.Text;
+            cmd.CommandText = "select * from Authors";
+
+            //5-Remember [link commandObject to connectionObject before open()]
+            cmd.Connection = sqlConnect;
+
+            try
+            {
+                //6-open()
+                sqlConnect.Open();
+
+                //7-sqlDataReader => reference points to ResultSet
+                SqlDataReader dr = cmd.ExecuteReader();
+
+                //8- c# object container to fill data by dataReader[DataTable]
+                DataTable dt = new DataTable();
+                dt.Load(dr); //dr will read automatically
+
+                //9- Data binding
+                gridAuthors.DataSource = dt;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                sqlConnect.Close();
+            }
+
+        }
+    }
+}

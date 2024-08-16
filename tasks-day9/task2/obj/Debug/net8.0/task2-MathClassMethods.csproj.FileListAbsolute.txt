@@ -1,0 +1,14 @@
+D:\ITI\C#\day9\tasks-day9\task2\bin\Debug\net8.0\task2-MathClassMethods.exe
+D:\ITI\C#\day9\tasks-day9\task2\bin\Debug\net8.0\task2-MathClassMethods.deps.json
+D:\ITI\C#\day9\tasks-day9\task2\bin\Debug\net8.0\task2-MathClassMethods.runtimeconfig.json
+D:\ITI\C#\day9\tasks-day9\task2\bin\Debug\net8.0\task2-MathClassMethods.dll
+D:\ITI\C#\day9\tasks-day9\task2\bin\Debug\net8.0\task2-MathClassMethods.pdb
+D:\ITI\C#\day9\tasks-day9\task2\obj\Debug\net8.0\task2-MathClassMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day9\tasks-day9\task2\obj\Debug\net8.0\task2-MathClassMethods.AssemblyInfoInputs.cache
+D:\ITI\C#\day9\tasks-day9\task2\obj\Debug\net8.0\task2-MathClassMethods.AssemblyInfo.cs
+D:\ITI\C#\day9\tasks-day9\task2\obj\Debug\net8.0\task2-MathClassMethods.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day9\tasks-day9\task2\obj\Debug\net8.0\task2-MathClassMethods.dll
+D:\ITI\C#\day9\tasks-day9\task2\obj\Debug\net8.0\refint\task2-MathClassMethods.dll
+D:\ITI\C#\day9\tasks-day9\task2\obj\Debug\net8.0\task2-MathClassMethods.pdb
+D:\ITI\C#\day9\tasks-day9\task2\obj\Debug\net8.0\task2-MathClassMethods.genruntimeconfig.cache
+D:\ITI\C#\day9\tasks-day9\task2\obj\Debug\net8.0\ref\task2-MathClassMethods.dll

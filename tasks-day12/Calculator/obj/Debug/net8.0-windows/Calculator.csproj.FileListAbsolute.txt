@@ -1,0 +1,16 @@
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\Calculator.frmCalculator.resources
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day12\Tasks-day12\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+D:\ITI\C#\day12\Tasks-day12\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+D:\ITI\C#\day12\Tasks-day12\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+D:\ITI\C#\day12\Tasks-day12\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+D:\ITI\C#\day12\Tasks-day12\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+D:\ITI\C#\day12\Tasks-day12\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll

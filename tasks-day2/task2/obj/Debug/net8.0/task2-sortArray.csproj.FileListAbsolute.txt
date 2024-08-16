@@ -1,0 +1,14 @@
+D:\ITI\C#\day2\tasks\task2\bin\Debug\net8.0\task2-sortArray.exe
+D:\ITI\C#\day2\tasks\task2\bin\Debug\net8.0\task2-sortArray.deps.json
+D:\ITI\C#\day2\tasks\task2\bin\Debug\net8.0\task2-sortArray.runtimeconfig.json
+D:\ITI\C#\day2\tasks\task2\bin\Debug\net8.0\task2-sortArray.dll
+D:\ITI\C#\day2\tasks\task2\bin\Debug\net8.0\task2-sortArray.pdb
+D:\ITI\C#\day2\tasks\task2\obj\Debug\net8.0\task2-sortArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day2\tasks\task2\obj\Debug\net8.0\task2-sortArray.AssemblyInfoInputs.cache
+D:\ITI\C#\day2\tasks\task2\obj\Debug\net8.0\task2-sortArray.AssemblyInfo.cs
+D:\ITI\C#\day2\tasks\task2\obj\Debug\net8.0\task2-sortArray.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day2\tasks\task2\obj\Debug\net8.0\task2-sortArray.dll
+D:\ITI\C#\day2\tasks\task2\obj\Debug\net8.0\refint\task2-sortArray.dll
+D:\ITI\C#\day2\tasks\task2\obj\Debug\net8.0\task2-sortArray.pdb
+D:\ITI\C#\day2\tasks\task2\obj\Debug\net8.0\task2-sortArray.genruntimeconfig.cache
+D:\ITI\C#\day2\tasks\task2\obj\Debug\net8.0\ref\task2-sortArray.dll

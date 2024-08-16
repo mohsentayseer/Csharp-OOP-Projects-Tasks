@@ -1,0 +1,14 @@
+D:\ITI\C#\day7\tasks-day7\task1\bin\Debug\net8.0\task1-MaxSpaceInArr.exe
+D:\ITI\C#\day7\tasks-day7\task1\bin\Debug\net8.0\task1-MaxSpaceInArr.deps.json
+D:\ITI\C#\day7\tasks-day7\task1\bin\Debug\net8.0\task1-MaxSpaceInArr.runtimeconfig.json
+D:\ITI\C#\day7\tasks-day7\task1\bin\Debug\net8.0\task1-MaxSpaceInArr.dll
+D:\ITI\C#\day7\tasks-day7\task1\bin\Debug\net8.0\task1-MaxSpaceInArr.pdb
+D:\ITI\C#\day7\tasks-day7\task1\obj\Debug\net8.0\task1-MaxSpaceInArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day7\tasks-day7\task1\obj\Debug\net8.0\task1-MaxSpaceInArr.AssemblyInfoInputs.cache
+D:\ITI\C#\day7\tasks-day7\task1\obj\Debug\net8.0\task1-MaxSpaceInArr.AssemblyInfo.cs
+D:\ITI\C#\day7\tasks-day7\task1\obj\Debug\net8.0\task1-MaxSpaceInArr.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day7\tasks-day7\task1\obj\Debug\net8.0\task1-MaxSpaceInArr.dll
+D:\ITI\C#\day7\tasks-day7\task1\obj\Debug\net8.0\refint\task1-MaxSpaceInArr.dll
+D:\ITI\C#\day7\tasks-day7\task1\obj\Debug\net8.0\task1-MaxSpaceInArr.pdb
+D:\ITI\C#\day7\tasks-day7\task1\obj\Debug\net8.0\task1-MaxSpaceInArr.genruntimeconfig.cache
+D:\ITI\C#\day7\tasks-day7\task1\obj\Debug\net8.0\ref\task1-MaxSpaceInArr.dll

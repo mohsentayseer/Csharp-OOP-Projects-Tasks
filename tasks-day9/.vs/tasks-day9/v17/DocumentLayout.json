@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\C#\\day9\\tasks-day9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A6C65-40FD-45FE-A2E4-7DFEDAAE9764}|Task5-Duration\\Task5-Duration.csproj|d:\\iti\\c#\\day9\\tasks-day9\\task5-duration\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A6C65-40FD-45FE-A2E4-7DFEDAAE9764}|Task5-Duration\\Task5-Duration.csproj|solutionrelative:task5-duration\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2403295C-6C52-4377-81E7-2377F259DCAF}|task4\\task4-singleTon.csproj|d:\\iti\\c#\\day9\\tasks-day9\\task4\\nic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2403295C-6C52-4377-81E7-2377F259DCAF}|task4\\task4-singleTon.csproj|solutionrelative:task4\\nic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2403295C-6C52-4377-81E7-2377F259DCAF}|task4\\task4-singleTon.csproj|d:\\iti\\c#\\day9\\tasks-day9\\task4\\ftp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2403295C-6C52-4377-81E7-2377F259DCAF}|task4\\task4-singleTon.csproj|solutionrelative:task4\\ftp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NIC.cs",
+              "DocumentMoniker": "D:\\ITI\\C#\\day9\\tasks-day9\\task4\\NIC.cs",
+              "RelativeDocumentMoniker": "task4\\NIC.cs",
+              "ToolTip": "D:\\ITI\\C#\\day9\\tasks-day9\\task4\\NIC.cs",
+              "RelativeToolTip": "task4\\NIC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:03:38.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FTP.cs",
+              "DocumentMoniker": "D:\\ITI\\C#\\day9\\tasks-day9\\task4\\FTP.cs",
+              "RelativeDocumentMoniker": "task4\\FTP.cs",
+              "ToolTip": "D:\\ITI\\C#\\day9\\tasks-day9\\task4\\FTP.cs",
+              "RelativeToolTip": "task4\\FTP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:03:36.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "D:\\ITI\\C#\\day9\\tasks-day9\\Task5-Duration\\Duration.cs",
+              "RelativeDocumentMoniker": "Task5-Duration\\Duration.cs",
+              "ToolTip": "D:\\ITI\\C#\\day9\\tasks-day9\\Task5-Duration\\Duration.cs",
+              "RelativeToolTip": "Task5-Duration\\Duration.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:03:24.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

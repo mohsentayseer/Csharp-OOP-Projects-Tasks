@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\C#\\day2\\tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F39843-EDCA-4FBB-B8C6-9E12F5E3D8B3}|task7-employesArray\\task7-employesArray.csproj|d:\\iti\\c#\\day2\\tasks\\task7-employesarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F39843-EDCA-4FBB-B8C6-9E12F5E3D8B3}|task7-employesArray\\task7-employesArray.csproj|solutionrelative:task7-employesarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A969F-133D-4379-A20C-242C90EFB97E}|task5\\task5-birthdate.csproj|d:\\iti\\c#\\day2\\tasks\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A969F-133D-4379-A20C-242C90EFB97E}|task5\\task5-birthdate.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A9D547-B903-4FF3-8227-DFEE0C16401B}|task2\\task2-sortArray.csproj|d:\\iti\\c#\\day2\\tasks\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A9D547-B903-4FF3-8227-DFEE0C16401B}|task2\\task2-sortArray.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\C#\\day2\\tasks\\task7-employesArray\\Program.cs",
+              "RelativeDocumentMoniker": "task7-employesArray\\Program.cs",
+              "ToolTip": "D:\\ITI\\C#\\day2\\tasks\\task7-employesArray\\Program.cs",
+              "RelativeToolTip": "task7-employesArray\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:52:26.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\C#\\day2\\tasks\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "D:\\ITI\\C#\\day2\\tasks\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:52:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\C#\\day2\\tasks\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "D:\\ITI\\C#\\day2\\tasks\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:51:57.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

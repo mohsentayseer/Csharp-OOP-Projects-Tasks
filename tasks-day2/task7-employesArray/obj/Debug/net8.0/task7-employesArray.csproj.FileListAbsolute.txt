@@ -1,0 +1,14 @@
+D:\ITI\C#\day2\tasks\task7-employesArray\bin\Debug\net8.0\task7-employesArray.exe
+D:\ITI\C#\day2\tasks\task7-employesArray\bin\Debug\net8.0\task7-employesArray.deps.json
+D:\ITI\C#\day2\tasks\task7-employesArray\bin\Debug\net8.0\task7-employesArray.runtimeconfig.json
+D:\ITI\C#\day2\tasks\task7-employesArray\bin\Debug\net8.0\task7-employesArray.dll
+D:\ITI\C#\day2\tasks\task7-employesArray\bin\Debug\net8.0\task7-employesArray.pdb
+D:\ITI\C#\day2\tasks\task7-employesArray\obj\Debug\net8.0\task7-employesArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day2\tasks\task7-employesArray\obj\Debug\net8.0\task7-employesArray.AssemblyInfoInputs.cache
+D:\ITI\C#\day2\tasks\task7-employesArray\obj\Debug\net8.0\task7-employesArray.AssemblyInfo.cs
+D:\ITI\C#\day2\tasks\task7-employesArray\obj\Debug\net8.0\task7-employesArray.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day2\tasks\task7-employesArray\obj\Debug\net8.0\task7-employesArray.dll
+D:\ITI\C#\day2\tasks\task7-employesArray\obj\Debug\net8.0\refint\task7-employesArray.dll
+D:\ITI\C#\day2\tasks\task7-employesArray\obj\Debug\net8.0\task7-employesArray.pdb
+D:\ITI\C#\day2\tasks\task7-employesArray\obj\Debug\net8.0\task7-employesArray.genruntimeconfig.cache
+D:\ITI\C#\day2\tasks\task7-employesArray\obj\Debug\net8.0\ref\task7-employesArray.dll

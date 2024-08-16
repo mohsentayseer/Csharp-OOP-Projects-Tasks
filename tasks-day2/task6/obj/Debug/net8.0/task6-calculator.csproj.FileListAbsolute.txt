@@ -1,0 +1,14 @@
+D:\ITI\C#\day2\tasks\task6\bin\Debug\net8.0\task6-calculator.exe
+D:\ITI\C#\day2\tasks\task6\bin\Debug\net8.0\task6-calculator.deps.json
+D:\ITI\C#\day2\tasks\task6\bin\Debug\net8.0\task6-calculator.runtimeconfig.json
+D:\ITI\C#\day2\tasks\task6\bin\Debug\net8.0\task6-calculator.dll
+D:\ITI\C#\day2\tasks\task6\bin\Debug\net8.0\task6-calculator.pdb
+D:\ITI\C#\day2\tasks\task6\obj\Debug\net8.0\task6-calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day2\tasks\task6\obj\Debug\net8.0\task6-calculator.AssemblyInfoInputs.cache
+D:\ITI\C#\day2\tasks\task6\obj\Debug\net8.0\task6-calculator.AssemblyInfo.cs
+D:\ITI\C#\day2\tasks\task6\obj\Debug\net8.0\task6-calculator.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day2\tasks\task6\obj\Debug\net8.0\task6-calculator.dll
+D:\ITI\C#\day2\tasks\task6\obj\Debug\net8.0\refint\task6-calculator.dll
+D:\ITI\C#\day2\tasks\task6\obj\Debug\net8.0\task6-calculator.pdb
+D:\ITI\C#\day2\tasks\task6\obj\Debug\net8.0\task6-calculator.genruntimeconfig.cache
+D:\ITI\C#\day2\tasks\task6\obj\Debug\net8.0\ref\task6-calculator.dll

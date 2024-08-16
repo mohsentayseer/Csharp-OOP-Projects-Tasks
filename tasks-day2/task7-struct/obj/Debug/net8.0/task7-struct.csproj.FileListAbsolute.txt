@@ -1,0 +1,14 @@
+D:\ITI\C#\day2\tasks\task7-struct\bin\Debug\net8.0\task7-struct.exe
+D:\ITI\C#\day2\tasks\task7-struct\bin\Debug\net8.0\task7-struct.deps.json
+D:\ITI\C#\day2\tasks\task7-struct\bin\Debug\net8.0\task7-struct.runtimeconfig.json
+D:\ITI\C#\day2\tasks\task7-struct\bin\Debug\net8.0\task7-struct.dll
+D:\ITI\C#\day2\tasks\task7-struct\bin\Debug\net8.0\task7-struct.pdb
+D:\ITI\C#\day2\tasks\task7-struct\obj\Debug\net8.0\task7-struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day2\tasks\task7-struct\obj\Debug\net8.0\task7-struct.AssemblyInfoInputs.cache
+D:\ITI\C#\day2\tasks\task7-struct\obj\Debug\net8.0\task7-struct.AssemblyInfo.cs
+D:\ITI\C#\day2\tasks\task7-struct\obj\Debug\net8.0\task7-struct.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day2\tasks\task7-struct\obj\Debug\net8.0\task7-struct.dll
+D:\ITI\C#\day2\tasks\task7-struct\obj\Debug\net8.0\refint\task7-struct.dll
+D:\ITI\C#\day2\tasks\task7-struct\obj\Debug\net8.0\task7-struct.pdb
+D:\ITI\C#\day2\tasks\task7-struct\obj\Debug\net8.0\task7-struct.genruntimeconfig.cache
+D:\ITI\C#\day2\tasks\task7-struct\obj\Debug\net8.0\ref\task7-struct.dll

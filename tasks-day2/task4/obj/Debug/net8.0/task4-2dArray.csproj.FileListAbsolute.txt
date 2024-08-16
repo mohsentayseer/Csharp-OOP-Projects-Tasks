@@ -1,0 +1,14 @@
+D:\ITI\C#\day2\tasks\task4\bin\Debug\net8.0\task4-2dArray.exe
+D:\ITI\C#\day2\tasks\task4\bin\Debug\net8.0\task4-2dArray.deps.json
+D:\ITI\C#\day2\tasks\task4\bin\Debug\net8.0\task4-2dArray.runtimeconfig.json
+D:\ITI\C#\day2\tasks\task4\bin\Debug\net8.0\task4-2dArray.dll
+D:\ITI\C#\day2\tasks\task4\bin\Debug\net8.0\task4-2dArray.pdb
+D:\ITI\C#\day2\tasks\task4\obj\Debug\net8.0\task4-2dArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\day2\tasks\task4\obj\Debug\net8.0\task4-2dArray.AssemblyInfoInputs.cache
+D:\ITI\C#\day2\tasks\task4\obj\Debug\net8.0\task4-2dArray.AssemblyInfo.cs
+D:\ITI\C#\day2\tasks\task4\obj\Debug\net8.0\task4-2dArray.csproj.CoreCompileInputs.cache
+D:\ITI\C#\day2\tasks\task4\obj\Debug\net8.0\task4-2dArray.dll
+D:\ITI\C#\day2\tasks\task4\obj\Debug\net8.0\refint\task4-2dArray.dll
+D:\ITI\C#\day2\tasks\task4\obj\Debug\net8.0\task4-2dArray.pdb
+D:\ITI\C#\day2\tasks\task4\obj\Debug\net8.0\task4-2dArray.genruntimeconfig.cache
+D:\ITI\C#\day2\tasks\task4\obj\Debug\net8.0\ref\task4-2dArray.dll
